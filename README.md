@@ -10,5 +10,5 @@ pip install jupyter pandas matplotlib numpy tensorflow
 
 Download materials from: 
 ```bash
-"https://drive.google.com/drive/folders/14UZmdo3Le2SGO_6KnsqW4aNOsZHobWc4"
+https://drive.google.com/drive/folders/14UZmdo3Le2SGO_6KnsqW4aNOsZHobWc4
 ```
