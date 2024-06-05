@@ -3,7 +3,7 @@
 # Dependencies
 
 ```bash
-pip install jupyter pandas matplotlib numpy tensorflow
+pip install jupyter pandas matplotlib numpy tensorflow scipy scikit-learn
 ```
 
 # Data:
