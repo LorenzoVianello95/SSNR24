@@ -35,6 +35,5 @@ git clone https://github.com/LorenzoVianello95/SSNR24.git
 ### Data:
 
 Download materials from and export in /data folder: 
-```bash
-https://drive.google.com/drive/folders/14UZmdo3Le2SGO_6KnsqW4aNOsZHobWc4
-```
+
+* https://drive.google.com/drive/folders/14UZmdo3Le2SGO_6KnsqW4aNOsZHobWc4
