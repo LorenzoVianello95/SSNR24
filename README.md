@@ -26,6 +26,11 @@ Before starting the workshop be sure to install the following libraries for pyth
 pip install jupyter pandas matplotlib numpy tensorflow==2.16 scipy scikit-learn
 ```
 
+clone the git repository:
+```bash
+git clone https://github.com/LorenzoVianello95/SSNR24.git
+```
+
 # Data:
 
 Download materials from and export in /data folder: 
